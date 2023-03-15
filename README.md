@@ -1,28 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+<!-- Headings -->
+# Heading 1
 
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>" + i + "</p>";
-	}
-	display.innerHTML = displayHTML;
-}
+<!-- Italics -->
+*This text* is italic
+_This text_ is also italic
 
-</script>
+<!-- Strong -->
+**THIS TEXT** is strong 
 
-</head>
+<!-- Strikethrough -->
+~~This text~~ is strikethrough
 
-<body onload="fizzbuzz()">
-<div id="display">
+<!-- Horizontal Rule -->
 
-</div>
-</body>
+---
+___
 
-</html>
+<!-- Blockquote -->
+>THIS IS A QUOTE
+
+<!-- Linkg -->
+[DANNAMEDIA](http://wwww.google.com)
+
+
+<!-- UL-->
+* Item 1
+* Item 2
+* Item 3 
+    * Nested Item 1
+    * Nested Item 2 
+
+<!-- OL -->
+1. Item 1
+1. Item 2 
+1. Item 3
 
