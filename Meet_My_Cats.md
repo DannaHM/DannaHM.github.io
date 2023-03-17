@@ -1,4 +1,4 @@
-#My 4 cats
+My cats
 =========
 **Peach**
 Peach is a sassy fat tortoiseshell; she is the first cat I adopted from KC Pet project.Currently 5 y.o, she is the oldest one. 
