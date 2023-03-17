@@ -10,7 +10,7 @@ I am currently learning:
 * HTML
 * Javascript 
 * CSS 
-* 
+
 <!-- Italics -->
 _This text_ is also italic
 
