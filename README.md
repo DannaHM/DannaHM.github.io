@@ -4,7 +4,7 @@
 
 **About me**
 <!-- paragraph -->
-I am a recent sophomore transfer student taking my first steps into IT and CS. I don't have any prior coding experience (_complete newbie_) and excited to learn! My other interests include fashion design, sewing, baking and anything creative. 
+I am a recent sophomore transfer student taking my first steps into IT and CS. I don't have any prior coding experience (_complete newbie_) and excited to learn! My other interests include fashion design, sewing, drawing and anything creative. 
 I am currently learning: 
 * Python
 * HTML
