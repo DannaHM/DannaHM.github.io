@@ -7,7 +7,7 @@ My skills
 5. Entry level progamming 
 6. Bilingual _(english and spanish)_
 
-art stuff :sparkles:
+art stuff ✨
 
 
 
