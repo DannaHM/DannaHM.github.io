@@ -1,6 +1,7 @@
 <!-- Headings -->
 # Heading 1
-![cats-doodle-pattern-background_53876-100663](https://user-images.githubusercontent.com/123142971/225956883-49df1838-8cfb-48fc-bf82-5d02d4309352.png)
+![cat-lover-pattern-background-design_53876-100662 copy](https://user-images.githubusercontent.com/123142971/225957645-48d0a656-f179-4a14-a6fe-48b10674264a.png)
+
 
 
 <!-- Italics -->
