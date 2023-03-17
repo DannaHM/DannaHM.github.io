@@ -10,7 +10,7 @@ I am currently learning:
 * HTML
 * Javascript 
 * CSS 
-_the building blocks_
+
 
 
 
