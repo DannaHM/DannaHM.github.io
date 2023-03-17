@@ -1,6 +1,6 @@
 <!-- Headings -->
 # Hi! I'm Danna :mushroom:
-![cat.png]
+![cat.png](cat.png)
 
 **About me**
 <!-- paragraph -->
