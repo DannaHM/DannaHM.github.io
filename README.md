@@ -29,7 +29,7 @@ ___
 >THIS IS A QUOTE
 
 <!-- Linkg -->
-[i adoped my cats from](https://kcpetproject.org/adopt/cats/)
+i adoped my cats from [kc pet project](https://kcpetproject.org/adopt/cats/)
 
 
 <!-- UL-->
