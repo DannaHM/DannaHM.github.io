@@ -13,6 +13,9 @@ I am currently learning:
 
 <!-- Headings -->
 **Meet my cats :feet::paw_prints:**
+<!-- paragraph -->
+Peach is a sassy tortoiseshell cat.
+
 
 <!-- Italics -->
 _This text_ is also italic
