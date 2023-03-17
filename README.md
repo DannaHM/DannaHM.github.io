@@ -10,12 +10,8 @@ I am currently learning:
 * HTML
 * Javascript 
 * CSS 
-
-
-
-
+* 
 <!-- Italics -->
-*This text* is italic
 _This text_ is also italic
 
 <!-- Strong -->
