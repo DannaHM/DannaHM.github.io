@@ -11,6 +11,9 @@ I am currently learning:
 * Javascript 
 * CSS 
 
+<!-- Headings -->
+# Meet my cats :feet::paw_prints:
+
 <!-- Italics -->
 _This text_ is also italic
 
@@ -29,7 +32,7 @@ ___
 >THIS IS A QUOTE
 
 <!-- Linkg -->
-i adoped my cats from [kc pet project](https://kcpetproject.org/adopt/cats/)
+[DANNAMEDIA](http://wwww.google.com)
 
 
 <!-- UL-->
