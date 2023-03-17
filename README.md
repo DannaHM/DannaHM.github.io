@@ -13,7 +13,6 @@ I am currently learning:
 
 The other reasources I have been using to learn coding are [code academy](https://www.codecademy.com/learn) and [udemy](https://www.udemy.com/) courses.
 
-
 **Navigate more about me using these links**
 <!-- OL -->
 1. [Meet My cats](./Meet_My_Cats.md)
@@ -21,9 +20,6 @@ The other reasources I have been using to learn coding are [code academy](https:
 3. [Hobbies](./hobbies.md)
 4. [Code Sample](./code_sample.md)
 
-
-<!-- Linkg -->
-[cats](https://github.com/DannaHM/DannaHM.github.io/blob/8344fd1ed4fd23f53faff7268b73dc41ec222ce4/DannaHMpage2.md)
 
 
 
