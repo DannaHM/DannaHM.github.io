@@ -5,7 +5,7 @@ My skills
 3. Upcycling clothes
 4. Photoshop/Editing 
 5. Entry level progamming 
-6. Cooking 
+6. Bilingual _I speak english and spanish_
 
 art stuff :sparkles:
 
