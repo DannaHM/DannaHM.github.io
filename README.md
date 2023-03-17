@@ -11,8 +11,12 @@ I am currently learning:
 * Javascript 
 * CSS 
 
-<!-- Headings -->
-**Meet my cats :feet::paw_prints:**
+**Navigate more about me using these links**
+<!-- OL -->
+1. [Meet My cats]
+2. [Skills]
+3. [Hobbies]
+4. [Code Sample]
 
 <!-- Italics -->
 _This text_ is also italic
