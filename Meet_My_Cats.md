@@ -7,3 +7,6 @@ My cats
 
 **Noodle** is a grey baby we found in the streets. Her breed is unknown but might be a korat. 
 ![PXL_20230117_051923862](https://user-images.githubusercontent.com/123142971/225985954-40cfcd9b-76e9-463a-9930-0ef73b997b47.jpg)
+
+**Honorable mention** Cream was an orange big boy that passed away 12-14-22. He was 10 y.o and the best boy. 
+![cream](https://user-images.githubusercontent.com/123142971/225986963-99e72a7f-1cab-4f34-8587-66cc62a893b3.jpg)
