@@ -12,7 +12,7 @@ I am currently learning:
 * CSS 
 
 <!-- Headings -->
-# Meet my cats :feet::paw_prints:
+**Meet my cats :feet::paw_prints:**
 
 <!-- Italics -->
 _This text_ is also italic
