@@ -1,5 +1,9 @@
 My cats
 =========
 **Peach** is a sassy fat tortoiseshell; she is the first cat I adopted from KC Pet project.Currently 5 y.o, she is the oldest one. 
-![20230306_160012](https://user-images.githubusercontent.com/123142971/225984247-0b2d3748-89d4-4fc7-a29b-d6f3e8422205.jpg)
-**Mochi** is a dwarf siamese, she is a shy girl found we found in craigslist.  ![20220817_191302](https://user-images.githubusercontent.com/123142971/225985197-3fae4b96-cb4d-4935-ac98-6bfa22b888d3.jpg)
+![20230306_160012](https://user-images.githubusercontent.com/123142971/225985496-6595bef4-1611-467c-a169-42f31be1c5d2.jpg)
+
+**Mochi** is a dwarf siamese, she is a shy girl found we found in craigslist.  ![20220817_191302](https://user-images.githubusercontent.com/123142971/225985397-390d59bd-0ef0-4189-abb3-0850bb2d0cee.jpg)
+
+**Noodle** is a grey baby we found in the streets. Her breed is unknown but might be a korat. 
+![PXL_20230117_051923862](https://user-images.githubusercontent.com/123142971/225985954-40cfcd9b-76e9-463a-9930-0ef73b997b47.jpg)
