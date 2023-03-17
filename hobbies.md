@@ -2,6 +2,9 @@ Current Hobbies
 =====
 * PLaying video games 
 * Nail art 
-* Reading
+* Reading/Audiobooks
     * Currently reading: _The master and Margarita_
-*
+* Fashion 
+* WebComics 
+* Making Bread 
+
