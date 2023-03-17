@@ -13,9 +13,6 @@ I am currently learning:
 
 <!-- Headings -->
 **Meet my cats :feet::paw_prints:**
-<!-- paragraph -->
-Peach is a sassy tortoiseshell cat.
-
 
 <!-- Italics -->
 _This text_ is also italic
@@ -35,7 +32,7 @@ ___
 >THIS IS A QUOTE
 
 <!-- Linkg -->
-[DANNAMEDIA](http://wwww.google.com)
+[cats](https://github.com/DannaHM/DannaHM.github.io/blob/8344fd1ed4fd23f53faff7268b73dc41ec222ce4/DannaHMpage2.md)
 
 
 <!-- UL-->
