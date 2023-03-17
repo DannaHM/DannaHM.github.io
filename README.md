@@ -1,7 +1,6 @@
 <!-- Headings -->
-# Hi, I'm Danna :white_flower:
+# Hi! I'm Danna :mushroom:
 ![cat](https://user-images.githubusercontent.com/123142971/225958753-3d449735-024e-4a2f-b712-4d15f3e77915.png)
-
 
 
 <!-- Italics -->
