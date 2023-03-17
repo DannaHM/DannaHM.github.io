@@ -6,7 +6,7 @@ My cats
 **Mochi** is a dwarf siamese, she is a shy girl found we found in craigslist.  ![20220817_191302](https://user-images.githubusercontent.com/123142971/225985397-390d59bd-0ef0-4189-abb3-0850bb2d0cee.jpg)
 
 **Noodle** is a grey baby we found in the streets. Her breed is unknown but might be a korat. 
-![PXL_20230117_051923862](https://user-images.githubusercontent.com/123142971/225985954-40cfcd9b-76e9-463a-9930-0ef73b997b47.jpg)
+![20221230_165552](https://user-images.githubusercontent.com/123142971/225987280-d1a82f6e-243f-451a-937a-3fe2ae327b1b.jpg)
 
 **Honorable mention** Cream was an orange big boy that passed away 12-14-22. He was 10 y.o and the best boy. 
 ![cream](https://user-images.githubusercontent.com/123142971/225986963-99e72a7f-1cab-4f34-8587-66cc62a893b3.jpg)
