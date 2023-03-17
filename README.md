@@ -1,5 +1,5 @@
 <!-- Headings -->
-# Hi! I'm Danna 
+# Hi! I'm Danna
 ![cat](cat.png)
 
 **About me**
