@@ -2,7 +2,7 @@
 # Hi! I'm Danna :mushroom:
 ![cat](https://user-images.githubusercontent.com/123142971/225958753-3d449735-024e-4a2f-b712-4d15f3e77915.png)
 
-<h>**About me**</h>
+**About me**
 <!-- paragraph -->
 I am a recent sophomore transfer student taking my first steps in IT and CS. I don't have any prior coding experience (_complete newbie_) and excited to learn! 
 
