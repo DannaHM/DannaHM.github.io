@@ -1,4 +1,4 @@
-My cats :feet::paw_prints:
+My cats 🐾
 =========
 **Peach** is a sassy fat tortoiseshell; she is the first cat I adopted from KC Pet project.Currently 5 y.o, she is the oldest of the three. Peach's hobbies include sleeping, drinking water from the bathroom faucet and being loud. 
 ![20230306_160012](https://user-images.githubusercontent.com/123142971/225985496-6595bef4-1611-467c-a169-42f31be1c5d2.jpg)
