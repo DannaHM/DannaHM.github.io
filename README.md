@@ -14,40 +14,14 @@ I am currently learning:
 **Navigate more about me using these links**
 <!-- OL -->
 1. [Meet My cats](./Meet_My_Cats.md)
-2. [Skills]
-3. [Hobbies]
-4. [Code Sample]
+2. [Skills](./skills.md)
+3. [Hobbies](./hobbies.md)
+4. [Code Sample](./code_sample.md)
 
-<!-- Italics -->
-_This text_ is also italic
-
-<!-- Strong -->
-**THIS TEXT** is strong 
-
-<!-- Strikethrough -->
-~~This text~~ is strikethrough
-
-<!-- Horizontal Rule -->
-
----
-___
-
-<!-- Blockquote -->
->THIS IS A QUOTE
 
 <!-- Linkg -->
 [cats](https://github.com/DannaHM/DannaHM.github.io/blob/8344fd1ed4fd23f53faff7268b73dc41ec222ce4/DannaHMpage2.md)
 
 
-<!-- UL-->
-* Item 1
-* Item 2
-* Item 3 
-    * Nested Item 1
-    * Nested Item 2 
 
-<!-- OL -->
-1. Item 1
-1. Item 2 
-1. Item 3
 
